@@ -3,7 +3,7 @@ PVsyst Simulation Example
 
 This is an example of using PVsyst 7.4 to design a solar panel system at a site in Seattle Washington.  
 
-A few of the Analyzed and discussed subjects include:
+A few topics analyzed and discussed include:
 - Site drawings
 - House and solar panel structural modelling
 - Shading analysis and simulation
