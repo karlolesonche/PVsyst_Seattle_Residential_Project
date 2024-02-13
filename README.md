@@ -3,7 +3,7 @@ PVsyst Simulation Example
 
 This is an example of using PVsyst 7.4 to design a solar panel system at a site in Seattle Washington.  
 
-The PDF has the default report from PVsyst.
+The two PDFs contain the default report from PVsyst and a personally assembled document recording the analysis involved in the design process.
 The .docx file has a detailed description of the site, simulation methodogoly, and design decisions.
 
 A few topics analyzed and discussed include within the project include:
